@@ -1,0 +1,17 @@
+git init
+git add .
+git commit -m "No changes"
+git status
+git log
+
+//Some changes
+
+git add .
+git commit -m "Changes this"
+
+//Some Changes
+
+git diff fileName
+
+
+git checkout fileName
